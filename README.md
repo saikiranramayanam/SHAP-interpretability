@@ -277,8 +277,6 @@ Create loyalty reward programs.
 # ⚙️ 15. Environment Setup
 
 ## Create Virtual Environment
-
-```bash
 python -m venv venv
 Activate Environment
 
