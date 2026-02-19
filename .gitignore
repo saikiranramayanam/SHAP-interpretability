@@ -1,0 +1,65 @@
+# ===============================
+# Python
+# ===============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+
+.ipynb_checkpoints/
+
+# ===============================
+# Model Files (Optional)
+# Uncomment if you DON'T want to upload models
+# ===============================
+
+# models/
+# *.pkl
+# *.joblib
+
+# ===============================
+# Data Files (Optional)
+# Uncomment if dataset is large
+# ===============================
+
+# data/
+# *.csv
+
+# ===============================
+# Logs & Temporary Files
+# ===============================
+
+*.log
+*.tmp
+*.swp
+
+# ===============================
+# OS Files
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE / Editor
+# ===============================
+
+.vscode/
+.idea/
+
+# ===============================
+# Environment Files
+# ===============================
+
+.env
+*.env
