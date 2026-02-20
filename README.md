@@ -349,4 +349,4 @@ We created a fully explainable churn prediction system capable of generating act
 
 🎥 Video Walkthrough
 
-(Insert your 3–5 minute YouTube or Drive link here)
+https://youtu.be/uNEyQugwaWQ
